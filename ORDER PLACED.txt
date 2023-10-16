@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ORDER PLACED</title>
+</head>
+<body>
+      	<h1>ORDER PLACED</h1>
+	<p>You have successfully placed your order, thank you!</p>
+	<input type="button" class="Submit"<a href="file:///C:/Users/LIndokuhle/Desktop/TASK%201/SRC/MENU%20BAR.html">BACK</button>
+
+</body>
